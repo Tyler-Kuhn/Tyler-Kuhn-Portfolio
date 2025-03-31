@@ -22,16 +22,16 @@ Check out the live version of my portfolio: [Live Demo](#)
 ## 🚀 Installation & Setup
 
 1. Clone the repository:
-   ```sh git clone https://github.com/your-username/your-portfolio.git```
+   ```git clone https://github.com/your-username/your-portfolio.git```
 
 2. Navigate into the project folder:
-   ```sh npm install```
+   ```npm install```
 
 3. Install dependencies:
-  ```sh npm install```
+  ```npm install```
 
 4. Start the development server:
-  ```sh npm run dev```
+  ```npm run dev```
 
 
 ## 📷 Screenshots
